@@ -1,1 +1,22 @@
-/* Add CSS Styling */
+.Odd-Number {   
+  background-color: lightcoral;
+  font-size: 16px;
+  font-family: sans-serif;
+}
+
+.Odd-Better {
+  font-size: 24px;
+}
+
+#Second-Element {
+  color: blue;
+  font-size: 32px;
+  font-family: serif;
+}
+
+#Fourth-Element {
+  background-color: lightgreen;
+  font-size: 22px;
+  font-family: serif;
+  font-weight: bold;
+}
